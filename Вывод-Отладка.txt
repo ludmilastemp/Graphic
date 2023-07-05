@@ -1,0 +1,77 @@
+﻿"Game2048.exe" (Win32). Загружено "D:\Proga\Game2048\x64\Debug\Game2048.exe". Символы загружены.
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Game2048.exe" (Win32). Загружено "D:\Proga\Game2048\x64\Debug\sfml-graphics-d-2.dll". 
+"Game2048.exe" (Win32). Загружено "D:\Proga\Game2048\x64\Debug\sfml-window-d-2.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\gdi32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\win32u.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\gdi32full.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\msvcp_win.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\ucrtbase.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\user32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\advapi32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+"Game2048.exe" (Win32). Загружено "D:\Proga\Game2048\x64\Debug\sfml-system-d-2.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\opengl32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\combase.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\winmm.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\glu32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". 
+Поток 0x217c завершился с кодом 0 (0x0).
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\uxtheme.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\msctf.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\oleaut32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\bcryptprimitives.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\clbcatq.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\AppXDeploymentClient.dll". 
+"Game2048.exe" (Win32). Выгружено "C:\Windows\System32\AppXDeploymentClient.dll"
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_044fd6f0c2ae28a8\ig9icd64.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\ole32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\shell32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\dwmapi.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\dxgi.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_044fd6f0c2ae28a8\igdml64.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\ResourcePolicyClient.dll". 
+"Game2048.exe" (Win32). Выгружено "C:\Windows\System32\ResourcePolicyClient.dll"
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_044fd6f0c2ae28a8\igdgmm64.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\version.dll". 
+"Game2048.exe" (Win32). Выгружено "C:\Windows\System32\version.dll"
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_044fd6f0c2ae28a8\igc64.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\powrprof.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\umpdc.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\dinput8.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\InputHost.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\SHCore.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\CoreMessaging.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\ws2_32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\WinTypes.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\CoreUIComponents.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\propsys.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\ntmarta.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\hid.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\setupapi.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\cfgmgr32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\bcrypt.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\devobj.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\wintrust.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\crypt32.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\msasn1.dll". 
+"Game2048.exe" (Win32). Загружено "C:\Windows\System32\TextInputFramework.dll". 
+Поток 0x5918 завершился с кодом 1 (0x1).
+Поток 0x4f1c завершился с кодом 0 (0x0).
+Поток 0x4d00 завершился с кодом 0 (0x0).
+Поток 0x6740 завершился с кодом 0 (0x0).
+Поток 0x3d04 завершился с кодом 0 (0x0).
+Поток 0x5d68 завершился с кодом 0 (0x0).
+Поток 0x7640 завершился с кодом 0 (0x0).
+Поток 0xaa0 завершился с кодом 0 (0x0).
+Поток 0x76a0 завершился с кодом 0 (0x0).
+Программа "[28588] Game2048.exe" завершилась с кодом 0 (0x0).
